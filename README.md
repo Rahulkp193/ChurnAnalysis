@@ -14,28 +14,28 @@ This dataset is imbalanced dataset where we need to predict two classes "Yes" or
 **Models Used**
 
 	Basic Algorithms 
-o	Naive Algorithms
-o	Logistic Regression
-o	Decision Tree
-o	k-Nearest Neighbors
-o	Support Vector Machine
-o	Random Forest
-o	Extra Trees
-o	Gradient Boosting
-o	XgBoost
-o	Stacking Classifiers
+* Naive Algorithms
+* Logistic Regression
+* Decision Tree
+* k-Nearest Neighbors
+* Support Vector Machine
+* Random Forest
+* Extra Trees
+* Gradient Boosting
+* XgBoost
+* Stacking Classifiers
 
 	Cost Sensitive Algorithms
-o	Logistic Regression
-o	Decision Trees
-o	Support Vector Machines
-o	Random Forest
-o	XGBoost
-o	Extra Trees
-o	Bagging decision tree with under sampling
+*	Logistic Regression
+*	Decision Trees
+*	Support Vector Machines
+*	Random Forest
+*	XGBoost
+*	Extra Trees
+*	Bagging decision tree with under sampling
 
 	Data Sampling Algorithms
-o	Decision Tree
+*	Decision Tree
 
 	Stacking Classifiers
 
